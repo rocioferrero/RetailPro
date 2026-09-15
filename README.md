@@ -150,3 +150,6 @@ El proyecto combina conocimientos de:
 **Rocío Ferrero**
 
 Proyecto desarrollado como parte del proceso de formación en **Data Analytics**.
+
+
+ARCHIVOS DE POWER BI DE LAS ENTREGAS 6 Y 8 CARGADAS EN EL DRIVE DEL SIGUIENTE ENLACE: https://drive.google.com/drive/folders/1St9NI_2pvVuifjocqkQqsOYTB7U0gHJH?usp=drive_link
